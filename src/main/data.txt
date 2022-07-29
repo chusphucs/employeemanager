@@ -1,0 +1,35 @@
+{
+    "email": "phuc22.9.1@gmail.com",
+    "imageURL": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"DEV",
+    "name": "Phuc",
+    "phone":"102391231"
+}
+{
+    "email": "thai@gmail.com",
+    "imageURL": "https://bootdey.com/img/Content/avatar/avatar5.png",
+    "jobTitle":"CTM",
+    "name": "thai",
+    "phone":"104237230"
+}
+{
+    "email": "guyn@gmail.com",
+    "imageURL": "https://bootdey.com/img/Content/avatar/avatar4.png",
+    "jobTitle":"CTM",
+    "name": "Guyn",
+    "phone":"23428342"
+}
+{
+    "email": "hoang@gmail.com",
+    "imageURL": "https://bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle":"QL",
+    "name": "Hoang",
+    "phone":"293482323"
+}
+{
+    "email": "duc@gmail.com",
+    "imageURL": "https://bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle":"CTM",
+    "name": "Duc",
+    "phone":"763423832"
+}
